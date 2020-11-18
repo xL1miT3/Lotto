@@ -1,2 +1,0 @@
-# Lotto
-Alle Lotto Kombos
